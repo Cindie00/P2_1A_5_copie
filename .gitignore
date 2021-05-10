@@ -1,0 +1,14 @@
+site/venv/
+site/*.pyc
+site/__pycache__/
+site/instance/
+site/.cache/
+site/.pytest_cache/
+site/.coverage
+site/htmlcov/
+site/dist/
+site/build/
+site/*.egg-info/
+site/.idea/
+site/*.swp
+site/*~
